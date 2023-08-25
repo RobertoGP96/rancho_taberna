@@ -1,0 +1,64 @@
+{
+        "Bebidas": [
+            {
+                "id": 1,
+                "Nombre": "Cerveza",
+                "Precio": "$450.00",
+                "Moneda": "cup",
+                "Descrpcion": ""
+            },
+            {
+                "id": 2,
+                "Nombre": "Ron",
+                "Precio": "$450.00",
+                "Moneda": "cup",
+                "Descrpcion": ""
+            },
+            {
+                "id": 3,
+                "Nombre": "Jugos Naturales",
+                "Precio": "$450.00",
+                "Moneda": "cup",
+                "Descrpcion": ""
+            }
+        ],
+        "Tapas": [
+            {
+                "id": 3,
+                "Nombre": "Camarones",
+                "Precio": "$450.00",
+                "Moneda": "cup",
+                "Descrpcion": ""
+            },
+            {
+                "id": 4,
+                "Nombre": "Pulpo",
+                "Precio": "$450.00",
+                "Moneda": "cup",
+                "Descrpcion": ""
+            }
+        ],
+        "PizzasyEspaguetis": [
+            {
+                "id": 5,
+                "Nombre": "Pizza Napolitana",
+                "Precio": "$450.00",
+                "Moneda": "cup",
+                "Descrpcion": ""
+            },
+            {
+                "id": 6,
+                "Nombre": "Pizza Jamón y Queso",
+                "Precio": "$450.00",
+                "Moneda": "cup",
+                "Descrpcion": ""
+            },
+            {
+                "id": 7,
+                "Nombre": "Pizza con Piña",
+                "Precio": "$450.00",
+                "Moneda": "cup",
+                "Descrpcion": ""
+            }
+        ]
+}
